@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ming 👨🏻‍💻 
+- ❤️  with Modern JavaScript
+- 🦹🏻  I'm an enemy of JQuery
+- ☕️  Continuously caffeinated
+- 🦎  is my spirit animal
